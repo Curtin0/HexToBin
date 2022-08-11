@@ -1,0 +1,22 @@
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\bin\Debug\CSharp_Hex2Bin.exe.config
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\bin\Debug\CSharp_Hex2Bin.exe
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\bin\Debug\CSharp_Hex2Bin.pdb
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.AssemblyReference.cache
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.Form1.resources
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.Properties.Resources.resources
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.GenerateResource.cache
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.CoreCompileInputs.cache
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.exe
+C:\Users\Pengf\Desktop\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.pdb
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\bin\Debug\PMSM-H-Converter.exe.config
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\bin\Debug\PMSM-H-Converter.exe
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\bin\Debug\PMSM-H-Converter.pdb
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.AssemblyReference.cache
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.SuggestedBindingRedirects.cache
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.Form1.resources
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.Properties.Resources.resources
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.GenerateResource.cache
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\CSharp_Hex2Bin.csproj.CoreCompileInputs.cache
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\PMSM-H-Converter.exe
+F:\PMSM ProjectV4.0\PMSM1000-master\misc\CSharp_Hex2Bin-master\obj\Debug\PMSM-H-Converter.pdb
