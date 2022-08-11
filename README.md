@@ -1,5 +1,5 @@
 # HexToBin
-一个可以将.hex文件转换为.bin文件的小工具，点击右侧Releases下载.exe程序，使用方法见下图。
+一个可以将.hex文件转换为.bin文件的小工具，点击右侧Releases下载.exe程序，鼠标右键使用，使用方法见下图。
 
 ![E612C35A-E37F-440c-A51D-2C8AC0FD1A3B](https://user-images.githubusercontent.com/49359900/184065433-10d8108c-69da-4f48-9da3-f83bb78f33a5.png)  
 
